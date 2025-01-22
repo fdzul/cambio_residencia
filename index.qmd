@@ -15,7 +15,7 @@ execute:
 
 ## Antecedentes
 
-El Dr. Felipe A. Dzul Manzanilla (FADM) al momento de solicitar la beca par el posdoctorado tenía su residencia en la Ciudad de Mérida en el estado de Yucatán. Razón por la cual solicitó en la convocatoria "Estancias Posdoctorales por México Convocatoria 2023 (1)" el monto único de 36, 000.0 (Treinta y seis mil pesos 00/100 M.N) por el concepto de gastos de traslado e instalación.
+El Dr. Felipe A. Dzul Manzanilla (FADM) al momento de solicitar la beca par el posdoctorado tenía su residencia en la Ciudad de Mérida en el estado de Yucatán. Razón por la cual solicitó en la convocatoria "Estancias Posdoctorales por México Convocatoria 2023 (1)" el monto único de 36,000.0 (Treinta y seis mil pesos 00/100 M.N) por el concepto de gastos de traslado e instalación.
 
 
 ## Objetivo
@@ -24,11 +24,24 @@ Describir brevemente el cambio de residencia & reunión de integración del grup
 
 ## Material y Métodos
 
-Con la finalidad de comprobar que FADM realizó el cambio de residencia & se integro al grupo de trabajo, se proporcionan la evidencia descriptiva y la evidencia 
+Con la finalidad de comprobar que FADM realizó el cambio de residencia & se integró al grupo de trabajo, se proporcionan la evidencia descriptiva y la evidencia que respalda la actividad
 
 ## Resultados
 
+Los resultados de las convocatoria fueron publicados la última semana de enero del 2024, el primero de febrero el Dr. FADM escribió al director para informarle tres puntos (Figura 1).
+
+ 1) Sobre los resultados,
+ 2) El cambio de residencia
+ 3) La reunión de integración (6 febrero)
+
+Del 1 al 4 Febrero 2024 se organizo el traslado vía terrestre a la ciudad de Cuernavaca pasando por la Ciudad de Puebla (Figura 2). En la Ciudad de Cuernavaca FADM reservó un Airbnb del 5 al 9 de Febrero (Figura 3) y del 9 al 15 de febrero se hospedo en el Hotel Santa Maria. A partir de la tercera semana de febrero el Dr. FADM reside permanentement en la Ciudad de Cuernavaca
 
 
+![Figura 1. Carta al Director](carta_HGD.png)
+
+
+![Figura 2. Boleto de Traslado de Mérida-Puebla](boleto_ado.png)
+
+![Figura 3. Hospedaje Airbnb](hospedaje_airbnb.png)
 
 ## Bases de datos encriptadas
