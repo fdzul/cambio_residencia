@@ -1,0 +1,34 @@
+---
+title: "Cambio de Residencia & Reunión de Integración del Grupo de Trabajo"
+subtitle: Felipe Antonio Dzul Manzanilla | CVU 6172953
+format: 
+  html:
+      theme: flatly
+      code-fold: true
+      toc: true
+      number-sections: true
+title-block-banner: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Antecedentes
+
+El Dr. Felipe A. Dzul Manzanilla (FADM) al momento de solicitar la beca par el posdoctorado tenía su residencia en la Ciudad de Mérida en el estado de Yucatán. Razón por la cual solicitó en la convocatoria "Estancias Posdoctorales por México Convocatoria 2023 (1)" el monto único de 36, 000.0 (Treinta y seis mil pesos 00/100 M.N) por el concepto de gastos de traslado e instalación.
+
+
+## Objetivo
+
+Describir brevemente el cambio de residencia & reunión de integración del grupo de trabajo.
+
+## Material y Métodos
+
+Con la finalidad de comprobar que FADM realizó el cambio de residencia & se integro al grupo de trabajo, se proporcionan la evidencia descriptiva y la evidencia 
+
+## Resultados
+
+
+
+
+## Bases de datos encriptadas
