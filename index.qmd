@@ -61,10 +61,13 @@ El día 6 de Febrero del 2024, el Dr. FADM se reunió con el director (Dr. Héct
 [![](credencial_fadm.png)](https://github.com/fdzul/cambio_residencia/blob/main/credencial_fadm.pdf)
 
 
+[Cuenta de correo](https://github.com/fdzul/cambio_residencia/blob/main/email_insp.png)
 
-[Cuenta de correo]()
+[![](email_insp.png)](https://github.com/fdzul/cambio_residencia/blob/main/email_insp.png)
 
-![](email_insp.png)
+
+[Red de Internet del INSP]()
+
 
 ### Conclusión.
 
