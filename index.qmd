@@ -49,10 +49,22 @@ Del 1 al 4 Febrero 2024 se organizo el traslado vía terrestre a la ciudad de Cu
 
 ### Reunión de Integración
 
-El día 6 de Febrero del 2024 el Dr. FADM se reunión con el director (Dr. Héctor Gémez-Dantés), como resultado se realizarón los trámites para solicitar la adcripción, el acceso a al institución,la credencial y la cuenta de correo institucional.
+El día 6 de Febrero del 2024, el Dr. FADM se reunió con el director (Dr. Héctor Gómez-Dantés), como resultado se realizarón los trámites para solicitar la adcripción, el acceso a la institución, a la red de internet, la credencial y la cuenta de correo institucional. Así, mismo el director gestionó un área específica para el Dr. FADM (cubículo y computadora).
+
+
+[Adscripción](https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio)
+
+[![](insp_adcripción.png)](https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio)
+
+[Credencial](https://github.com/fdzul/cambio_residencia/blob/main/credencial_fadm.pdf)
+
+[![](credencial_fadm.png)](https://github.com/fdzul/cambio_residencia/blob/main/credencial_fadm.pdf)
 
 
 
+[Cuenta de correo]()
+
+![](email_insp.png)
 
 ### Conclusión.
 
