@@ -49,7 +49,7 @@ Del 1 al 4 Febrero 2024 se organizo el traslado vía terrestre a la ciudad de Cu
 
 ### Reunión de Integración
 
-El día 6 de Febrero del 2024, el Dr. FADM se reunió con el director (Dr. Héctor Gómez-Dantés), como resultado se realizarón los trámites para solicitar la adcripción, el acceso a la institución, a la red de internet, la credencial y la cuenta de correo institucional. Así, mismo el director gestionó un área específica para el Dr. FADM (cubículo y computadora).
+El día 6 de Febrero del 2024, el Dr. FADM se reunió con el director (Dr. Héctor Gómez-Dantés), como resultado se realizarón los trámites para solicitar la adcripción, el acceso a la institución, a la red de internet, la credencial y la cuenta de correo institucional (investigador41@insp.mx). Así, mismo el director gestionó un área específica para el Dr. FADM (cubículo y computadora).
 
 
 [Adscripción](https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio)
@@ -65,13 +65,17 @@ El día 6 de Febrero del 2024, el Dr. FADM se reunió con el director (Dr. Héct
 
 [![](email_insp.png)](https://github.com/fdzul/cambio_residencia/blob/main/email_insp.png)
 
+[Red de Internet del INSP](https://inspmovil.insp.mx:12081/cgi-bin/zscp?Section=CPAuth&Action=Show&ZSCPRedirect=inspmovil.insp.mx:::https://inspmovil.insp.mx/%3f)
 
-[Red de Internet del INSP]()
+[![](red_insp.png)](https://inspmovil.insp.mx:12081/cgi-bin/zscp?Section=CPAuth&Action=Show&ZSCPRedirect=inspmovil.insp.mx:::https://inspmovil.insp.mx/%3f)
+
+
+
 
 
 ### Conclusión.
 
-En resumen la evidencia presentada respalda el cambio de residencia y  la reunión de integración del grupo de trabajo.
+En resumen la evidencia presentada respalda el cambio de residencia y la reunión de integración del grupo de trabajo.
 
 
 
